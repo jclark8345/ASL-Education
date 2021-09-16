@@ -24,3 +24,5 @@ ASL Education System implemented through the use of Leap Motion Device
 ## Results
 
 ## References
+
+    - Lavamagh, S., Luxton-Reiller, A., Wuenscje, B., Plimmer, B. (2017). A systematic review of Virtual Reality in education. *Themes in Science and Technology Education*, 10(2), 85-119.
