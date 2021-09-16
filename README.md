@@ -13,6 +13,12 @@ ASL Education System implemented through the use of Leap Motion Device
 
 ## File Directory
 
+    - PredictGesture.html
+    - PredictGesture.js
+    - Record.html
+    - Record.js
+    - PrepareToDraw.js
+
 ## Data
 
 ## Results
