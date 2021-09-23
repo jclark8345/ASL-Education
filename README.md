@@ -68,8 +68,7 @@ The second set of visualizations sought to indicate how a users current session 
 ## Data
 
 ## Video Demonstration
-
-[![Alternate Text]({image-url})]({https://www.youtube.com/watch?v=0j3Vkf6j6iY} "Link Title")
+<a href="https://www.youtube.com/watch?v=0j3Vkf6j6iY" title="Link Title"><img src="https://imgur.com/a/hE3zrGx" alt="Alternate Text" /></a>
 
 ## References
 
