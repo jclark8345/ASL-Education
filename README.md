@@ -28,20 +28,20 @@ The goal of this project was to establish an interaction between the user, the L
     - digit_data.zip: zipped folder of training data for kNN with 10+ instances for each digit
 ## User Interaction
 
-<p float="left">
+<p align="center">
   <img src="https://github.com/jclark8345/ASL-Education/blob/main/project_images/hand_to_left.jpeg" width="200" />
   <img src="https://github.com/jclark8345/ASL-Education/blob/main/project_images/hand_to_right.jpeg" width="200" /> 
   <img src="https://github.com/jclark8345/ASL-Education/blob/main/project_images/hand_to_up.jpeg" width="200" />
 </p>
 
 
-<p float="left">
+<p align="center">
   <img src="https://github.com/jclark8345/ASL-Education/blob/main/project_images/hand_to_close_annotated.png" width="200" />
   <img src="https://github.com/jclark8345/ASL-Education/blob/main/project_images/hand_to_down.jpeg" width="200" /> 
   <img src="https://github.com/jclark8345/ASL-Education/blob/main/project_images/hand_to_far_away_annotated.png" width="200" />
 </p>
 
-The ASL education system looked to improve user interaction with the system through helpful, informative visuals. The six images above were used to demonstrate to the user proper hand placement above the Leap Motion controller. A hand
+The ASL education system looked to improve user interaction with the system through helpful, informative visuals. The six images above were used to demonstrate to the user proper hand placement above the Leap Motion controller. The users hand to the left, not above the Controller, prompted the first image to remind the user to keep their hand above the Leap Motion Controller
 ### Perfromance Visualizations
 
 Two unique performance visualizations were added as functionality to the system to provide a comparison for performance. Given our goal of creating a user system that was able to interact with users regardless of age or language, both visualizations and user statistics were provided to demonstrate performance. 
