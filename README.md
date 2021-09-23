@@ -5,6 +5,7 @@ American Sign Language (ASL) recognition algorithm/education system implemented 
 
 - [Project Introduction](#project-introduction)
 - [File Directory](#file-directory)
+- [User Interaction](#user-interaction)
 - [Data](#data)
 - [Results](#results)
 - [References](#references)
@@ -20,6 +21,21 @@ The goal of this project was to establish an interaction between the user, the L
     - Record.html
     - Record.js
     - PrepareToDraw.js
+## User Interaction
+
+<p float="left">
+  <img src="https://github.com/jclark8345/ASL-Education/blob/main/project_images/hand_to_left.jpeg" width="200" />
+  <img src="https://github.com/jclark8345/ASL-Education/blob/main/project_images/hand_to_right.jpeg" width="200" /> 
+  <img src="https://github.com/jclark8345/ASL-Education/blob/main/project_images/hand_to_up.jpeg" width="200" />
+</p>
+
+
+<p float="left">
+  <img src="https://github.com/jclark8345/ASL-Education/blob/main/project_images/hand_to_close_annotated.png" width="200" />
+  <img src="https://github.com/jclark8345/ASL-Education/blob/main/project_images/hand_to_down.jpeg" width="200" /> 
+  <img src="https://github.com/jclark8345/ASL-Education/blob/main/project_images/hand_to_far_away_annotated.png" width="200" />
+</p>
+
 
 ## Data
 
