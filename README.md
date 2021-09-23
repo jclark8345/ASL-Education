@@ -11,7 +11,7 @@ American Sign Language (ASL) recognition algorithm/education system implemented 
 - [File Directory](#file-directory)
 - [User Interaction](#user-interaction)
 - [Data](#data)
-- [Results](#results)
+- [Video Demonstration](#video-demonstration)
 - [References](#references)
 
 ## Project Introduction
@@ -67,7 +67,9 @@ The second set of visualizations sought to indicate how a users current session 
 
 ## Data
 
-## Results
+## Video Demonstration
+
+[![Alternate Text]({image-url})]({https://www.youtube.com/watch?v=0j3Vkf6j6iY} "Link Title")
 
 ## References
 
