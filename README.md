@@ -41,6 +41,7 @@ The goal of this project was to establish an interaction between the user, the L
   <img src="https://github.com/jclark8345/ASL-Education/blob/main/project_images/hand_to_far_away_annotated.png" width="200" />
 </p>
 
+The ASL education system looked to improve user interaction with the system through helpful, informative visuals. The six images above were used to demonstrate to the user proper hand placement above the Leap Motion controller. A hand
 ### Perfromance Visualizations
 
 Two unique performance visualizations were added as functionality to the system to provide a comparison for performance. Given our goal of creating a user system that was able to interact with users regardless of age or language, both visualizations and user statistics were provided to demonstrate performance. 
