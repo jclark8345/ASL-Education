@@ -36,6 +36,11 @@ The goal of this project was to establish an interaction between the user, the L
   <img src="https://github.com/jclark8345/ASL-Education/blob/main/project_images/hand_to_far_away_annotated.png" width="200" />
 </p>
 
+### Perfromance Visualizations
+
+Two unique performance visualizations were added as functionality to the system to provide a comparison for performance. Given our goal of creating a user system that was able to interact with users regardless of age or language, both visualizations and user statistics were provided to demonstrate performance. 
+The first looked to visualize how a users current session performance compared to their previous session performance. The user was displayed the average digit accuracy from both their past and current session and the visualization was shown based off a ratio of these values. The visualization used 5 unique faces, drawn from a medical pain scale chart, to display a comparison of performance. For instance, user who has previously interacted with the system are initially shown a red, crying face. This image visualizes their poor performance, comparatively. When the ratio of these two metrics are close to 1, users are shown shown a yellow face. When users current performance is comparatively larger than past sessions, users are shown a green smile.
+The second set of visualizations sought to indicate how a users current session performance compared to the performance of users who had previously interacted with the system. Users were initially shown the top three users who have interacted with the system and a blue 'participation' ribbon. Ranking display and the visualization changed based on user performance and users were shown a 1st place, 2nd place, or 3rd place medal, dependent on calculated rankings. 
 
 ## Data
 
