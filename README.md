@@ -2,7 +2,7 @@
 American Sign Language (ASL) recognition algorithm/education system implemented through the use of Leap Motion Controller. The Leap motion Controller is an optical hand tracking module that captures the movements of the user's hands. This type of controller makes interaction with digital systems natural and effortless.
 
 <p align="center">
-  <img src="https://github.com/jclark8345/ASL-Education/blob/main/project_images/Screenshot%202021-09-16%20163431.png" width="300" />
+  <img src="https://github.com/jclark8345/ASL-Education/blob/main/project_images/Screenshot%202021-09-16%20163431.png" width="500" />
 </p>
 
 ## Contents
