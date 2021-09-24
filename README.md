@@ -68,7 +68,10 @@ The second set of visualizations sought to indicate how a users current session 
 ## Data
 
 ## Video Demonstration
-<a href="https://www.youtube.com/watch?v=0j3Vkf6j6iY" title="Link Title"><img src="https://imgur.com/a/hE3zrGx" alt="Alternate Text" /></a>
+<a href="https://www.youtube.com/watch?v=0j3Vkf6j6iY" title="Link Title">
+  <p align = "center">
+  <img src="https://github.com/jclark8345/ASL-Education/blob/main/project_images/youtube_overlay_image.png" width = "600" alt="Alternate Text" /></a>
+</p>
 
 ## References
 
