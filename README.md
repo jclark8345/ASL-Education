@@ -75,6 +75,9 @@ Each training instance was a single 3D tensor which stored all the hand data fro
 
 ## User Testing
 
+Evaluation of the entire system,strengths, and weaknesses would require the application of user testing. Fair and quantitative user testing is imperative to provide valuable feedback to shape and improve design of user functionality within the ASL system. More specifically, if possible, it would be very important to identify if users are able to complete specific tasks and establish how efficiently users are able to complete these predetermined tasks. Some examples of predetermined tasks may be placing a hand over the Leap Motion Device, centering the hand over the Leap Motion Device, signing a single ASL gesture correctly, accessing State 3, accessing State 4, and use of secondary hand navigation. Quantifying the efficiency to complete predetermined tasks would indicate the effectiveness of specific functionality while also highlighting possible changes in functionality to address user issues and improve overall user gesture performance with the system. The first step in fair and quantitative user testing would be to establish the aims of evaluation through the design of a concrete evaluation plan. More specifically, this evaluation plan would establish what is being evaluated, why it is being evaluated, and what evaluation metrics would be used. A concrete plan previous to user testing would control for observation bias as the performance of all users would be comparable due to the similarity over distinct users. User evaluation would be comprised of two aspects, quantitative and qualitative metrics. 
+
+
 ## Video Demonstration
 <a href="https://www.youtube.com/watch?v=0j3Vkf6j6iY" title="Link Title">
   <p align = "center">
